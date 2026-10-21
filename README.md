@@ -11,6 +11,12 @@ https://french-municipal-elections-2026-hpyeu7oyxa4zqtpvfr8xny.streamlit.app/
 
 https://github.com/Lucie123456789/french-municipal-elections-2026
 
+## Demo Video
+
+Watch the dashboard demonstration here :
+
+https://drive.google.com/file/d/1pawzmkdCyulFnY7M67RLO5SPcWZ_Bsf5/view?usp=sharing
+
 ## 1. Project Overview
 
 This project is an interactive data storytelling dashboard developed with Python and Streamlit.
