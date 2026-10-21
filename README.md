@@ -1,5 +1,16 @@
 # French Municipal Elections 2026 – Second Round
 
+
+## Live Dashboard
+
+The Streamlit dashboard is available online:
+
+https://french-municipal-elections-2026-hpyeu7oyxa4zqtpvfr8xny.streamlit.app/
+
+## GitHub Repository
+
+https://github.com/Lucie123456789/french-municipal-elections-2026
+
 ## 1. Project Overview
 
 This project is an interactive data storytelling dashboard developed with Python and Streamlit.
